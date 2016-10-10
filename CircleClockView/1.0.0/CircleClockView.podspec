@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "mySpec"
+  s.name         = "CircleClockView"
   s.version      = "1.0.0"
   s.summary      = "表盘绘制加圆形进度显示"
 
